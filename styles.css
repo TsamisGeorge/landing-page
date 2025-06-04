@@ -1,0 +1,25 @@
+/* body {
+    display: flex;
+    flex-direction: column;
+} */
+
+/* *, ::before, ::after {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+} */
+
+
+
+.header-container {
+    height: 380px;
+    background-color: #1F2937;
+}
+
+.upper-header {
+    display: flex;
+}
+
+.lower-header {
+    display: flex;
+}
